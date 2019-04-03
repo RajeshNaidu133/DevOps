@@ -51,7 +51,7 @@
     </div>
 
     <footer>
-      <p class="footer-contents">Founded in 2016 <a href="https://aws.amazon.com/careers/devtools-jobs/">♥</a> in Bangalore.</p>
+      <p class="footer-contents">Founded in 2016 <a href="https://aws.amazon.com/careers/devtools-jobs/">♥</a> at Bangalore.</p>
     </footer>
 
     <script src={$setBackgroundJs}"></script>
