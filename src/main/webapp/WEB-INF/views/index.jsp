@@ -45,8 +45,8 @@
               <img src="${tweetSvg}" alt="Tweet"/>
           </a>
         <div class="text">
-          <h1>Congratulations!</h1>
-          <h2>You just created a Java Spring web application.</h2>
+          <h1>DevOps College!</h1>
+          <h2>want to become a devops engineer, then join the devops college.</h2>
         </div>
       </div>
     </div>
