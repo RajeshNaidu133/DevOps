@@ -2,6 +2,24 @@
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
+<style>
+<-- This is for login button -->
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button2 {background-color: #008CBA;} /* Blue */
+
+</style>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <title>DevOps</title>
@@ -35,6 +53,8 @@
             <li><a class="home-link" href="https://devops.com/">Home</a></li>
             <li><a href="https://devops.com/about/">About</a></li>
             <li><a href="https://devops.com/webinars/">Webinars</a></li>
+			<li><a href="https://devops.com/webinars/">Community</a></li>
+			<li><button class="button button2">LOGIN</button></li>
           </ul>
         </nav>
       </header>
