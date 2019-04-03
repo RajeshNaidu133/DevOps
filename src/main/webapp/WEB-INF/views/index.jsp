@@ -4,7 +4,7 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <title>JavaSpringWebApp</title>
+    <title>DevOps</title>
     <meta name="description" content="" />
 
     <spring:url value="/resources/gradients.css" var="gradientsCss" />
@@ -32,10 +32,9 @@
       <header>
         <nav class="website-nav">
           <ul>
-            <li><a class="home-link" href="https://aws.amazon.com/">Home</a></li>
-            <li><a href="https://aws.amazon.com/what-is-cloud-computing/">About</a></li>
-            <li><a href="https://aws.amazon.com/solutions/">Services</a></li>
-            <li><a href="https://aws.amazon.com/contact-us/">Contact</a></li>
+            <li><a class="home-link" href="https://devops.com/">Home</a></li>
+            <li><a href="https://devops.com/about/">About</a></li>
+            <li><a href="https://devops.com/webinars/">Webinars</a></li>
           </ul>
         </nav>
       </header>
@@ -52,7 +51,7 @@
     </div>
 
     <footer>
-      <p class="footer-contents">Designed and developed with <a href="https://aws.amazon.com/careers/devtools-jobs/">♥</a> in Seattle.</p>
+      <p class="footer-contents">Founded in 2016 <a href="https://aws.amazon.com/careers/devtools-jobs/">♥</a> in Bangalore.</p>
     </footer>
 
     <script src={$setBackgroundJs}"></script>
