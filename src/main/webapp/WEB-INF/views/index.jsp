@@ -45,7 +45,7 @@
           </a>
         <div class="text">
           <h1>DevOps College!</h1>
-          <h2>want to become a devops engineer, then join the devops college.</h2>
+          <span style='font-size:100px;'>&#128526;<h2>want to become a devops engineer, then join the devops college. </h2></span>
         </div>
       </div>
     </div>
