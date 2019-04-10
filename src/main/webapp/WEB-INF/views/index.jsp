@@ -51,7 +51,7 @@
         <nav class="website-nav">
           <ul>
             <li><a class="home-link" href="https://devops.com/">Home</a></li>
-            <li><a href="https://devops.com/about/">About</a></li>
+            <li><a href="about.jsp">About</a></li>
             <li><a href="https://devops.com/webinars/">Webinars</a></li>
 			<li><a href="https://devops.com/webinars/">DevOps Community</a></li>
 			<li><button class="button button2">LOGIN</button></li>
